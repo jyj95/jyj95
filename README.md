@@ -4,8 +4,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> - 프로젝트를 통해 API, RTC 활용하여 구현<br>
-- 정보와 수집의 능하며 주어진 역할에 책임을 다하는 자세
-- 호기심과 적극적인 태도로 임하는 자세
+- 정보와 수집의 능하며 주어진 역할에 책임을 다하는 자세<br> - 호기심과 적극적인 태도로 임하는 자세<br>
 - 건축 현장 경험으로 인한 팀워크와 협업을 위한 소통을 할 수 있는 개발자 </div> 
     </div>
     <div align= "center">
